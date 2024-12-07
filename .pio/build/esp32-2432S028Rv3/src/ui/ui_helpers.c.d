@@ -7,7 +7,7 @@
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/lv_conf_kconfig.h \
  C:/Users/Me/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include/sdkconfig.h \
  C:/Users/Me/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_attr.h \
- C:/Users/Me/source/repos/esp32-smartdisplay-demo/include/lv_conf.h \
+ C:/Users/Me/source/repos/CYDT/include/lv_conf.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/misc/lv_types.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/misc/../lv_conf_internal.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/stdlib/lv_mem.h \
@@ -63,15 +63,15 @@
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/lv_area.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/lv_cache.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/lv_cache_entry.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/../../osal/lv_os.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/../../osal/../lv_conf_internal.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/../../osal/../misc/lv_types.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/../../osal/lv_os_none.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/../lv_types.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\osal\lv_os.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\lv_conf_internal.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\misc\lv_types.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\osal\lv_os_none.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\misc\lv_types.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/lv_cache_private.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/lv_cache_lru_rb.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/lv_image_cache.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/../../lv_conf_internal.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\lv_conf_internal.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../font/../misc/cache/lv_image_header_cache.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/lv_color.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/lv_area.h \
@@ -86,11 +86,11 @@
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../layouts/../lv_conf_internal.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../layouts/../misc/lv_types.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../layouts/flex/lv_flex.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../layouts/flex/../../lv_conf_internal.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../layouts/flex/../../misc/lv_area.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\lv_conf_internal.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\misc\lv_area.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../layouts/grid/lv_grid.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../layouts/grid/../../lv_conf_internal.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/../layouts/grid/../../misc/lv_area.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\lv_conf_internal.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\misc\lv_area.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/lv_style_gen.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/lv_area.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../misc/lv_color.h \
@@ -111,7 +111,7 @@
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../display/../draw/../misc/lv_style.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../display/../draw/../misc/lv_text.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../display/../draw/../misc/lv_profiler.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../display/../draw/../misc/../lv_conf_internal.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\lv_conf_internal.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../display/../draw/../misc/lv_matrix.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../display/../draw/lv_image_decoder.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/core/../display/../draw/lv_draw_buf.h \
@@ -170,10 +170,10 @@
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/font/../misc/lv_types.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/widgets/animimage/lv_animimage.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/widgets/animimage/../image/lv_image.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/widgets/animimage/../image/../../lv_conf_internal.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/widgets/animimage/../image/../../core/lv_obj.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/widgets/animimage/../image/../../misc/lv_fs.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/widgets/animimage/../image/../../draw/lv_draw.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\lv_conf_internal.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\core\lv_obj.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\misc\lv_fs.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\draw\lv_draw.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/widgets/animimage/../../misc/lv_types.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/widgets/arc/lv_arc.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/widgets/arc/../../lv_conf_internal.h \
@@ -271,7 +271,7 @@
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/others/sysmon/lv_sysmon.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/others/sysmon/../../misc/lv_timer.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/others/sysmon/../../others/observer/lv_observer.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/others/sysmon/../../others/observer/../../core/lv_obj.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\core\lv_obj.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/others/monkey/lv_monkey.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/others/monkey/../../lv_conf_internal.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/others/monkey/../../indev/lv_indev.h \
@@ -384,7 +384,7 @@
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/drivers/display/fb/lv_linux_fbdev.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/drivers/display/fb/../../../display/lv_display.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/drivers/display/tft_espi/lv_tft_espi.h \
- .pio/libdeps/esp32-2432S028Rv3/lvgl/src/drivers/display/tft_espi/../../../display/lv_display.h \
+ c:\users\me\source\repos\cydt\.pio\libdeps\esp32-2432s028rv3\lvgl\src\display\lv_display.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/drivers/nuttx/lv_nuttx_entry.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/drivers/nuttx/../../lv_conf_internal.h \
  .pio/libdeps/esp32-2432S028Rv3/lvgl/src/drivers/nuttx/../../display/lv_display.h \
