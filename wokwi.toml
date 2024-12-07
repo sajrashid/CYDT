@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = '.pio\build\esp32-2432S028Rv3\firmware.bin'
+elf = '.pio\build\esp32-2432S028Rv3\firmware.elf'
+gdbServerPort=3333
